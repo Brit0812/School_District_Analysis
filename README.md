@@ -24,7 +24,7 @@ The removal of the 9th graders entirely
 ![](images/THS_w_9th.png)
 The 9th graders were untouched, prior to their investigation of potential academic dishonesty
 
-After replacing the THS 9th graders data with NaN, the results were astonishing. The overall passing percentage for THS decreased from 91% to 67%. Since the overall average had a sharp drop, THS was no longer within the top 5 schools, due to all the NaN values for the 9th graders.
+After replacing the THS 9th graders data with NaN, the results were astonishing. The overall passing percentage for THS decreased from 91% to 65%. Since the overall average had a sharp drop, THS was no longer within the top 5 schools, due to all the NaN values for the 9th graders.
 
 
 As for the overall passing percentage for the district, decreased by 0.3%. Since this includes the averages from THS, grades 10 to 12 (no NaN values), their passing percentage, alone was in the 90s across the board in the math, reading, and overall passing percentage.
